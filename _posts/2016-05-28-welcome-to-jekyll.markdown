@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Seja Bem Vindo ao Vale dos Homossexuais"
+title:  "Seja Bem Vindo ao Minimal Blog"
 date:   2016-05-28 14:05:15 -0300
 categories: jekyll update
 ---
